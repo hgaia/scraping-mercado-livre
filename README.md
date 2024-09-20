@@ -1,4 +1,4 @@
 
 <p align="center">
-<span>Execute scraping <br> php artisan "product name"</span>
+<span>Execute scraping <br> php artisan scrape:site "product name"</span>
 </p>
